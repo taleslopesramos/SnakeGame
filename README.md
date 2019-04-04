@@ -1,7 +1,7 @@
 # SnakeGame
 Jogo da cobrinha utilizando pygame e POO
 
-# É necessario instalar a lib pygame
+# Instalar a lib pygame
 `$ pip install pygame`
 
 # Rodar o projeto
